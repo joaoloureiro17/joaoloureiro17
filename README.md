@@ -14,9 +14,9 @@ Welcome to my GitHub profile! Here you'll find some of the projects I've been wo
 ![João's GitHub Stats](https://github-readme-stats.vercel.app/api?username=joaoloureiro17&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joaoloureiro17&layout=compact&theme=tokyonight)
 
-## 📌 Featured Repositories
-- 📡 [Redes-de-Computadores](https://github.com/joaoloureiro17/Redes-de-Computadores)  
-  Projects from the Computer Networks course (LEI 2022/2023)
+## 📌 Featured Projects
+- 📡 [Base-de-dados](https://github.com/joaoloureiro17/Base-de-Dados)  
+  Creation of a database, using SQL instructions
 
 - 🔍 [Investigacao-Operacional](https://github.com/joaoloureiro17/Investigacao-Operacional)  
   Work developed for the Operational Research course (LEI 2022/2023)
