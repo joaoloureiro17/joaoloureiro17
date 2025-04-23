@@ -18,8 +18,8 @@ Welcome to my GitHub profile! Here you'll find some of the projects I've been wo
 - 📡 [Base-de-dados](https://github.com/joaoloureiro17/Base-de-Dados)  
   Creation of a database, using SQL instructions
 
-- 🔍 [Investigacao-Operacional](https://github.com/joaoloureiro17/Investigacao-Operacional)  
-  Work developed for the Operational Research course (LEI 2022/2023)
+- 🔍 [Sistemas-Operativos](https://github.com/joaoloureiro17/Sistemas-Operativos/blob/main/Relatório_TPSO41.pdf)  
+  Creation of a task orchestrator in C
 
 - 🧠 [PL2024](https://github.com/joaoloureiro17/PL2024)  
   My work related to Programming Languages (PL) in 2024
