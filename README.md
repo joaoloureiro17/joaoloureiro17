@@ -21,8 +21,8 @@ Welcome to my GitHub profile! Here you'll find some of the projects I've been wo
 - 🔍 [Sistemas-Operativos](https://github.com/joaoloureiro17/Sistemas-Operativos/blob/main/Relatório_TPSO41.pdf)  
   Creation of a task orchestrator in C
 
-- 🧠 [PL2024](https://github.com/joaoloureiro17/PL2024)  
-  My work related to Programming Languages (PL) in 2024
+- 🧠 [Processamento-de-Linguagens](https://github.com/joaoloureiro17/Processamento-de-linguagens)  
+  My work related to Programming Languages (PL) in 2025
 
 ---
 
